@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=thebibek.thebibek) [![Github](https://img.shields.io/github/followers/thebibek?label=Followers&logo=Github)](https://github.com/thebibek)
 
 
 
