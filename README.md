@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-![](https://visitor-badge.laobi.icu/badge?page_id=thebibek.thebibek) [![Github](https://img.shields.io/github/followers/thebibek?label=Followers&logo=Github)](https://github.com/thebibek)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou) [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Followers&logo=Github)](https://github.com/CharalambosIoannou)
 
 
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thebibek&theme=onedark)](https://github.com/thebibek/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thebibek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on ...
@@ -18,7 +18,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebibek&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebibek&layout=compact)](https://github.com/thebibek/github-readme-stats)
 
 
 [![](https://raw.githubusercontent.com/thebibek/thebibek/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
