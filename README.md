@@ -1,5 +1,7 @@
 ### Hi there i am bibek & I love <strong>Open Source</strong>👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebibek)](https://github.com/thebibek/github-readme-stats)
+
 
 
 
